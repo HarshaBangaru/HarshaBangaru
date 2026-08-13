@@ -2,7 +2,7 @@
 
 ### Master of Data Science Professional | Deakin University
 
-I am currently pursuing a **Master of Data Science Professional at Deakin University, Melbourne**, building on a background in Computer Science and Engineering.
+Currently pursuing a **Master of Data Science Professional at Deakin University, Melbourne**, with a strong foundation in **Computer Science and Engineering** and a focus on applying data-driven methods to real-world problems.
 
 My technical focus includes Python, SQL, data analysis, machine learning, statistical modelling, predictive modelling, and data visualisation. I work with real-world datasets across the data science lifecycle, from data preparation and exploratory analysis to feature engineering, model development, evaluation, and interpretation.
 

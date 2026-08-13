@@ -14,7 +14,8 @@ I am continuously developing my technical skills through hands-on projects, acad
 
 ## Connect
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:harshavardhanreddy10059@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshavardhan%20Reddy%20Bangaru-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsha-reddy12)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:harshavardhanreddy10059@gmail.com)
 
 ---
 

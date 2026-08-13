@@ -1,137 +1,128 @@
 # Harshavardhan Reddy Bangaru
 
-### Master of Data Science Professional | Deakin University
+**Master of Data Science Professional · Deakin University · Melbourne**
 
-I am currently pursuing a **Master of Data Science Professional at Deakin University, Melbourne**, building on a background in Computer Science and Engineering.
+I work at the intersection of **data, computation, and applied machine learning**.
 
-My technical focus includes Python, SQL, data analysis, machine learning, statistical modelling, predictive modelling, and data visualisation. I work with real-world datasets across the data science lifecycle, from data preparation and exploratory analysis to feature engineering, model development, evaluation, and interpretation.
+My current work involves taking raw and complex datasets and turning them into structured, interpretable solutions — from data preparation and exploratory analysis through feature engineering, modelling, validation, and visualisation.
 
-My GitHub showcases academic and independent projects involving applied machine learning, predictive modelling, data analytics, and research-oriented data science. I aim to build solutions that are reproducible, technically sound, and relevant to real-world problems.
-
-I am continuously developing my technical skills through hands-on projects, academic work, and practical experimentation.
+My academic and independent work spans **applied machine learning, predictive modelling, large-scale data analysis, and research-oriented experimentation**. I am particularly interested in understanding not only how well a model performs, but also how and why it produces its results.
 
 ---
 
-## Connect
+## What I Work With
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:harshavardhanreddy10059@gmail.com)
+**Programming**
+`Python` · `SQL` · `R` · `Java`
 
----
+**Data & Modelling**
+`Pandas` · `NumPy` · `Scikit-learn` · `XGBoost` · `LightGBM` · `imbalanced-learn`
 
-## Tech Stack
+**Visualisation**
+`Matplotlib` · `Seaborn` · `Bokeh`
 
-### Languages
+**Data & Development**
+`MySQL` · `SQLite` · `Jupyter` · `Git` · `GitHub` · `VS Code`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-### Data Science & Machine Learning
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
-![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=flat-square)
-![imbalanced-learn](https://img.shields.io/badge/imbalanced--learn-FF6F00?style=flat-square)
-
-### Deep Learning
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
-### Data Visualisation
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
-![Bokeh](https://img.shields.io/badge/Bokeh-FFB000?style=flat-square)
-
-### Databases & Tools
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
-
-### Cloud
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+**Cloud**
+`AWS` · `Azure`
 
 ---
 
-## Featured Projects
+## Selected Work
 
 ### Drug-Induced Autoimmunity Prediction
 
-[Drug-Induced Autoimmunity Prediction](https://github.com/HarshaBangaru/drug-induced-autoimmunity-prediction)
+[Repository →](https://github.com/HarshaBangaru/drug-induced-autoimmunity-prediction)
 
-Reproduced a published machine learning framework (InterDIA) for predicting drug-induced autoimmunity from molecular descriptors. Developed an improved stacking ensemble using **XGBoost, LightGBM, and Random Forest**, achieving an **AUC of 1.0 on external validation**.
+Reproduced the published **InterDIA** machine-learning framework for drug-induced autoimmunity prediction using molecular descriptors, followed by development of an improved stacking ensemble combining **XGBoost, LightGBM, and Random Forest**.
 
-`Python` `scikit-learn` `XGBoost` `LightGBM` `imbalanced-learn`
+**External validation:** AUC 1.0
+
+`Python` `Scikit-learn` `XGBoost` `LightGBM` `imbalanced-learn`
 
 ---
 
-### NYC Taxi Trip Data Analysis
+### NYC Taxi Trip Data
 
-End-to-end data wrangling and modelling using NYC Taxi Trip Record Data, including data preparation, exploratory analysis, feature engineering, and predictive modelling.
+An end-to-end data science workflow built around NYC Taxi Trip Record Data, covering schema exploration, data wrangling, feature engineering, analysis, and predictive modelling.
 
 `Python` `Pandas` `NumPy` `Scikit-learn`
 
 ---
 
-### NHANES Data Analysis
+### NHANES Data Integration & Analysis
 
-Integrated multiple NHANES datasets to perform data wrangling, exploratory analysis, statistical analysis, and interactive visualisation.
+Integrated multiple NHANES datasets into an analytical workflow, with emphasis on data preparation, exploratory analysis, statistical investigation, and interactive visualisation.
 
 `Python` `Pandas` `NumPy` `Bokeh`
 
 ---
 
-### Melbourne Housing Price Prediction
+### Melbourne Housing Prediction
 
-Developed a machine learning workflow for property price prediction, covering data preprocessing, feature engineering, regression modelling, and model evaluation.
+A regression-focused project exploring property data through preprocessing, feature engineering, model development, and evaluation to investigate housing price prediction.
 
 `Python` `Pandas` `Scikit-learn` `Matplotlib`
 
 ---
 
-## Current Focus
+## How I Approach Data
 
-- Data Analysis
-- Machine Learning
-- Predictive Modelling
-- Statistical Modelling
-- Feature Engineering
-- Data Visualisation
-- Explainable AI
-- Applied Data Science
-- Research-oriented Machine Learning
+```text
+Raw Data
+   ↓
+Data Understanding
+   ↓
+Cleaning & Transformation
+   ↓
+Exploratory Analysis
+   ↓
+Feature Engineering
+   ↓
+Model Development
+   ↓
+Evaluation & Interpretation
+   ↓
+Actionable Insight
+```
+
+I value **reproducibility, clear methodology, meaningful evaluation, and interpretable results** rather than treating model performance as the only objective.
 
 ---
 
-## Academic Background
+## Currently Developing
 
-**Master of Data Science Professional**  
-Deakin University, Melbourne, Australia
-
-**Bachelor of Technology — Computer Science and Engineering**  
-G Pullaiah College of Engineering and Technology
+* Advanced machine learning workflows
+* Predictive and statistical modelling
+* Feature engineering
+* Explainable machine learning
+* Large-scale data analysis
+* Interactive data visualisation
+* Research-oriented machine learning
+* Reproducible data science workflows
 
 ---
 
-## GitHub
+## Education
 
-This profile documents my academic work, independent projects, experiments, and continued development in data science and machine learning.
+**Master of Data Science Professional**
+Deakin University · Melbourne, Australia
+
+**Bachelor of Technology in Computer Science and Engineering**
+
+---
+
+## Beyond the Notebook
+
+I use GitHub as a working record of my development — documenting experiments, projects, research implementations, and lessons learned rather than simply collecting finished code.
+
+### Open to
+
+**Data Science · Machine Learning · Data Analytics · Research & Collaboration**
 
 ---
 
 ## Contact
 
-For professional opportunities, collaboration, or project discussions:
-
-**Email:** harshavardhanreddy10059@gmail.com
+[Email](mailto:harshavardhanreddy10059@gmail.com)

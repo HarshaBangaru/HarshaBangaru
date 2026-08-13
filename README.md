@@ -1,67 +1,137 @@
-<h1 align="center">Hi, I'm Harshavardhan Reddy Bangaru 👋</h1>
-<h3 align="center">Data Scientist in training | Machine Learning · Statistical Modelling · Predictive Analytics</h3>
+# Harshavardhan Reddy Bangaru
 
-<p align="center">
-  <a href="mailto:harshavardhanreddy10059@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://YOUR-PORTFOLIO-LINK.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox&logoColor=%23FF7139" />
-  </a>
-</p>
+### Master of Data Science Professional | Deakin University
+
+I am currently pursuing a **Master of Data Science Professional at Deakin University, Melbourne**, building on a background in Computer Science and Engineering.
+
+My technical focus includes Python, SQL, data analysis, machine learning, statistical modelling, predictive modelling, and data visualisation. I work with real-world datasets across the data science lifecycle, from data preparation and exploratory analysis to feature engineering, model development, evaluation, and interpretation.
+
+My GitHub showcases academic and independent projects involving applied machine learning, predictive modelling, data analytics, and research-oriented data science. I aim to build solutions that are reproducible, technically sound, and relevant to real-world problems.
+
+I am continuously developing my technical skills through hands-on projects, academic work, and practical experimentation.
 
 ---
 
-### 🎯 About Me
+## Connect
 
-I'm a Master of Data Science Professional candidate at **Deakin University, Melbourne**, with a foundation in Computer Science and Engineering. I turn messy, real-world data into models and insights that drive decisions — working across the full pipeline from data cleaning and EDA to feature engineering, model development, evaluation, and communication of results.
-
-I'm currently looking for **[Graduate / Internship] roles in Data Science, Machine Learning, or Data Analytics** — open to opportunities in Melbourne and remote.
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:harshavardhanreddy10059@gmail.com)
 
 ---
 
-### 🔥 Featured Projects
+## Tech Stack
 
-**[Drug-Induced Autoimmunity Prediction](https://github.com/HarshaBangaru/drug-induced-autoimmunity-prediction)**
-Reproduced a published ML framework (InterDIA) predicting drug-induced autoimmunity from molecular descriptors, then built an improved stacking ensemble (XGBoost + LightGBM + Random Forest) — achieved AUC 1.0 on external validation.
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+### Data Science & Machine Learning
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
+![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=flat-square)
+![imbalanced-learn](https://img.shields.io/badge/imbalanced--learn-FF6F00?style=flat-square)
+
+### Deep Learning
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+### Data Visualisation
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+![Bokeh](https://img.shields.io/badge/Bokeh-FFB000?style=flat-square)
+
+### Databases & Tools
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
+
+### Cloud
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+---
+
+## Featured Projects
+
+### Drug-Induced Autoimmunity Prediction
+
+[Drug-Induced Autoimmunity Prediction](https://github.com/HarshaBangaru/drug-induced-autoimmunity-prediction)
+
+Reproduced a published machine learning framework (InterDIA) for predicting drug-induced autoimmunity from molecular descriptors. Developed an improved stacking ensemble using **XGBoost, LightGBM, and Random Forest**, achieving an **AUC of 1.0 on external validation**.
+
 `Python` `scikit-learn` `XGBoost` `LightGBM` `imbalanced-learn`
 
-**[Project Name](https://github.com/HarshaBangaru/repo-link)**
-One sentence on the problem and outcome.
-`Python` `TensorFlow` `AWS`
+---
 
-**[Project Name](https://github.com/HarshaBangaru/repo-link)**
-One sentence on the problem and outcome.
-`R` `Statistical Modelling` `Tableau`
+### NYC Taxi Trip Data Analysis
+
+End-to-end data wrangling and modelling using NYC Taxi Trip Record Data, including data preparation, exploratory analysis, feature engineering, and predictive modelling.
+
+`Python` `Pandas` `NumPy` `Scikit-learn`
 
 ---
 
-### 🧰 Tech Stack
+### NHANES Data Analysis
 
-**Languages:** ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+Integrated multiple NHANES datasets to perform data wrangling, exploratory analysis, statistical analysis, and interactive visualisation.
 
-**Data & ML:** ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![scikit--learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
-**Visualisation:** ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-
-**Tools & Cloud:** ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0072C6?style=flat-square&logo=microsoftazure&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+`Python` `Pandas` `NumPy` `Bokeh`
 
 ---
 
-### 📊 GitHub Stats
+### Melbourne Housing Price Prediction
 
-<p align="left">
-  <img src="https://github-readme-stats.shion.dev/api?username=HarshaBangaru&theme=tokyonight&hide_border=true&count_private=false" height="165"/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=HarshaBangaru&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
-</p>
+Developed a machine learning workflow for property price prediction, covering data preprocessing, feature engineering, regression modelling, and model evaluation.
+
+`Python` `Pandas` `Scikit-learn` `Matplotlib`
 
 ---
 
-### 📫 Let's Connect
+## Current Focus
 
-I'm always happy to talk data science, collaborate on a project, or discuss opportunities.
+- Data Analysis
+- Machine Learning
+- Predictive Modelling
+- Statistical Modelling
+- Feature Engineering
+- Data Visualisation
+- Explainable AI
+- Applied Data Science
+- Research-oriented Machine Learning
 
-📧 **harshavardhanreddy10059@gmail.com**
+---
+
+## Academic Background
+
+**Master of Data Science Professional**  
+Deakin University, Melbourne, Australia
+
+**Bachelor of Technology — Computer Science and Engineering**  
+G Pullaiah College of Engineering and Technology
+
+---
+
+## GitHub
+
+This profile documents my academic work, independent projects, experiments, and continued development in data science and machine learning.
+
+---
+
+## Contact
+
+For professional opportunities, collaboration, or project discussions:
+
+**Email:** harshavardhanreddy10059@gmail.com
